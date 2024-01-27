@@ -99,8 +99,5 @@
   <ItemGroup>
     <Resource Include="Assets\TicTacToe_24x24.png" />
   </ItemGroup>
-  <ItemGroup>
-    <Resource Include="README-Images\Board.png" />
-  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
